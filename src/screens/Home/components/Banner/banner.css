@@ -1,0 +1,37 @@
+
+.banner{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(185, 185, 223);
+    position: relative;
+}
+
+.img-intro{
+    height: 100%;
+    width: 100%
+}
+.content-banner{
+    position: absolute;
+    top: 20%;
+  
+
+}
+.logo{
+    width: 400px;
+    margin-top: 10px;
+}
+
+
+.text-banner{
+    font-size: 20px;
+    color: azure;
+}
+.text-banner span{
+    border-bottom: 2px solid white ;
+}
+.text-banner-bottom{
+    font-size: 20px;
+    color: azure;
+    width: 550px;
+
+}

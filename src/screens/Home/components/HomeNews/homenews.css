@@ -1,0 +1,12 @@
+h2 {
+  text-align: center;
+}
+.HomeNew {
+  min-height: 700px;
+  padding: 30px;
+}
+
+.space-homenews {
+  padding-top: 10%;
+  /* padding-left: 10%; */
+}

@@ -1,0 +1,67 @@
+.image-detail-products {
+  text-align: center;
+  padding-top: 20px;
+}
+
+.ingredient-detail-products {
+  font-weight: 700;
+  font-size: 18px;
+  font: SVN-Gotham;
+}
+
+.ingredient-detail-products-item {
+  font: SVN-Gotham;
+  font-weight: 400;
+  font-size: 18px;
+  padding: 10px 0px 10px 0px;
+}
+.uses-detail-products {
+  font-weight: 700;
+  font-size: 18px;
+  font: SVN-Gotham;
+}
+.uses-detail-products-item {
+  font: SVN-Gotham;
+  font-weight: 400;
+  font-size: 18px;
+  padding: 10px 0px 10px 0px;
+}
+.amount-detail-products {
+  font-weight: 700;
+  font-size: 18px;
+  font: SVN-Gotham;
+}
+.amount-detail-products-items {
+  font: SVN-Gotham;
+  font-weight: 400;
+  font-size: 18px;
+  padding: 10px 0px 10px 0px;
+}
+.name-detail-products {
+  font: SVN-Gotham;
+  font-weight: 700;
+  font-size: 24px;
+  color: #08999c;
+  text-align: center;
+}
+.button-order {
+  width: 30%;
+  height: 50px;
+  background-color: rgba(255, 37, 37, 0.66);
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+  margin: 0 auto;
+}
+.button-order span {
+  font-size: 20px;
+  font-weight: 500;
+  color: white;
+  margin-left: 10px;
+}
+
+.button-order i {
+  font-size: 20px;
+  color: white;
+}

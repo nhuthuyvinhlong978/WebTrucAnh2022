@@ -1,0 +1,17 @@
+export default {
+  news: "/tin-tuc",
+  product: "/san-pham",
+  details: "/chi-tiet-san-pham",
+  store: "/cua-hang",
+  introduce: "/gioi-thieu",
+  home: "/",
+  process: "/quy-trinh-nuoi-tom",
+  shrimp: "/tom-giong",
+  contact: "/lien-he",
+  recruit: "/thong-tin-tuyen-dung-va-lien-he",
+  imagevideo: "/hinh-anh",
+  library: "/thu-vien",
+  knowledge: "/kien-thuc",
+  link: "/lien-ket-dao-tao",
+  achievements: "/thanh-tich",
+};

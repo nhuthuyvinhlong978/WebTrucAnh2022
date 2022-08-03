@@ -1,0 +1,44 @@
+.homeprocess {
+  min-height: 500px;
+  padding-top: 20px;
+}
+
+.border-img {
+  border: 5px;
+  color: black;
+}
+
+.content {
+  width: 268px;
+  height: 200px;
+  padding: 20px;
+}
+
+.span-top {
+  color: #08999c;
+  font-weight: 500;
+  font-size: x-large;
+  text-align: center;
+  padding-bottom: 13px;
+}
+.span-bottom {
+  text-align: center;
+  font-size: 18px;
+}
+
+.span-last {
+  text-align: center;
+}
+
+.icon-radius {
+  width: 20%;
+  margin: 0 auto;
+  height: 45.6px;
+  background-color: #08999c;
+  border-radius: 50%;
+  padding: 10px;
+  margin-top: 15px;
+}
+.title-process {
+  padding-bottom: 20px;
+}

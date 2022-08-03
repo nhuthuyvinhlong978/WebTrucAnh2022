@@ -1,0 +1,49 @@
+.img-recruit {
+  width: 1166px;
+  height: 530px;
+  padding: 30px;
+}
+
+.content-recruit-first {
+  width: 95%;
+  text-align: justify;
+  margin: 0 auto;
+}
+
+.content-recruit-second {
+  width: 100%;
+  color: #ff0000;
+  padding: 40px 60px 40px 100px;
+  font-weight: 500;
+}
+.content-recruit-third {
+  width: 95%;
+  height: 530px;
+  padding: 10px 30px 30px 30px;
+}
+
+.content-recruit-third-one {
+  text-transform: uppercase;
+}
+
+.content-require {
+  width: 106%;
+  height: 530px;
+  padding-top: 10px;
+  text-align: justify;
+}
+.content-recruit-require {
+  text-transform: uppercase;
+  width: 95%;
+}
+.general-requirements-one {
+  padding: 20px 20px 10px 40px;
+  text-transform: uppercase;
+}
+.general-requirements {
+  width: 106%;
+  padding: 20px 20px 20px 40px;
+}
+.general-requirements-two {
+  padding: 0px 20px 10px 60px;
+}

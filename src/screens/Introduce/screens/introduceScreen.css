@@ -1,0 +1,20 @@
+.title-introduce {
+  font-size: 30px;
+  text-align: center;
+  color: #08999c;
+  font-weight: 500;
+}
+
+.content-introduce-screen {
+  width: 90%;
+  height: 180px;
+  padding: 20px 80px 80px 20px;
+  margin: 0 auto;
+  text-align: justify;
+}
+
+.img-introduce-1 {
+  width: 100%;
+  text-align: center;
+  padding-right: 9px;
+}

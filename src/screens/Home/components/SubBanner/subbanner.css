@@ -1,0 +1,24 @@
+.subbanner{
+    width: auto;
+    background-color: aquamarine;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(185, 185, 223);
+    position: relative;
+    
+
+}
+.content-subbanner{
+    position: absolute;
+    top: 20%;
+}
+.logo-subbanner{
+    width: 300px;
+    margin-top: 10px;
+}
+
+.text-subbanner{
+    font-size: 30px;
+    color: azure;
+    margin-top: 5%
+}

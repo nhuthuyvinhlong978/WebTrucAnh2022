@@ -1,0 +1,28 @@
+.category-image-video {
+  width: 100%;
+  display: table;
+  border: 1px solid #08999c;
+  margin-top: 20px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.category-item-image {
+  display: table-cell;
+  padding: 20px;
+  height: 100%;
+  border-right: 1px solid #08999c;
+  color: #08999c;
+  font-weight: 500;
+  text-align: center;
+  cursor: pointer;
+}
+
+.active {
+  background-color: #08999c;
+  color: white;
+}
+
+.category-item-image:last-child {
+  border-right: none;
+}
